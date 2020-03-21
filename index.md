@@ -4,6 +4,7 @@
 
 <h1>Personal information: </h1>
 <h3>Kyle Broadhurst /  s3851557 / wernubs@gmail.com</h3>
+<img src="49271323_2361146260564333_2060462984903262208_n.jpg" alt="photo">
 <p>My name is Kyle and im a 22 year old born in Sydney and raised in Bendigo, currently living in Geelong I spend most of my days working at the local Kebab shop and going out with friends. I am a big fan of Korean cuisine with Patbingsu being my favourite dish to have with friends. To this day my highest education has been Year 12, I did briefly partake in an accounting course but I dropped it because it conflicted with my job. Currently I can only speak English but I hope to one day learn either Chinese or Korean. My  dream is to play Dota 2 professionally, I have  flown interstate to compete in events and it has been lots of fun.<br><br> </p>
 <h2>Interest in IT:  </h2>
 <p> For me I find the most fascinating part of IT is how it became so integrated in our lives, from TV's to pocket super computers its so interesting seeing how our society brought this technology from and centre into our lives.My interest in IT started from a very young age, when I was around 12 I got sick and couldn't run around anymore so my parents bought me laptop to make sure I wasn't bored, from that moment I was hooked, being able to explore anything, see anything, learning about anything, Ive been hooked on technology ever since.<br><br>
